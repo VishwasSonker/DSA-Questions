@@ -1,37 +1,35 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        vector<pair<int, int>> zeroes;
         int rows=matrix.size();
         int cols=matrix[0].size();
-        for(int i=0;i<rows;i++){
-            for(int j=0;j<cols;j++){
+
+        bool firstrow = false, firstcol = false;
+        for(int i=0; i<rows; i++){
+            for(int j=0; j<cols; j++){
                 if(matrix[i][j] == 0){
-                    zeroes.push_back({i, j});
+                    if(i==0) firstrow = true;
+                    if(j==0) firstcol = true;
+                    matrix[i][0] = 0;
+                    matrix[0][j] = 0;
                 }
             }
         }
-
-        for(int i=0; i<zeroes.size(); i++){
-            int k = zeroes[i].first + 1;
-            int l = zeroes[i].second + 1;
-            while(k<rows){
-                matrix[k][zeroes[i].second] = 0;
-                k++;
+        for(int i=1; i<rows; i++){
+            for(int j=1; j<cols; j++){
+                if(matrix[i][0] == 0 || matrix[0][j] == 0){
+                    matrix[i][j] = 0;
+                }
             }
-            while(l<cols){
-                matrix[zeroes[i].first][l] = 0;
-                l++;
+        }
+        if(firstrow){
+            for(int i = 0; i<cols ; i++){
+                matrix[0][i] = 0;
             }
-            int a = zeroes[i].first - 1;
-            int b = zeroes[i].second - 1;
-            while(a>=0){
-                matrix[a][zeroes[i].second] = 0;
-                a--;
-            }
-            while(b>=0){
-                matrix[zeroes[i].first][b] = 0;
-                b--;
+        }
+        if(firstcol){
+            for(int j = 0; j<rows ; j++){
+                matrix[j][0] = 0;
             }
         }
     }
