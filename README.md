@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/VishwasSonker/DSA-Questions/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/VishwasSonker/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/VishwasSonker/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/VishwasSonker/DSA-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishwasSonker/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VishwasSonker/DSA-Questions/tree/master/0136-single-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/VishwasSonker/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/VishwasSonker/DSA-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0229-majority-element-ii) |
 ## Counting
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/VishwasSonker/DSA-Questions/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/VishwasSonker/DSA-Questions/tree/master/0088-merge-sorted-array) |
 ## Matrix
 |  |
 | ------- |
