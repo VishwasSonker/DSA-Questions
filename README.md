@@ -67,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/VishwasSonker/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/VishwasSonker/DSA-Questions/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/VishwasSonker/DSA-Questions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/VishwasSonker/DSA-Questions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
