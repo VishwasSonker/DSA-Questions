@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/VishwasSonker/DSA-Questions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/VishwasSonker/DSA-Questions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/VishwasSonker/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/VishwasSonker/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VishwasSonker/DSA-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VishwasSonker/DSA-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VishwasSonker/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/VishwasSonker/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/VishwasSonker/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VishwasSonker/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/VishwasSonker/DSA-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VishwasSonker/DSA-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/VishwasSonker/DSA-Questions/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VishwasSonker/DSA-Questions/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/VishwasSonker/DSA-Questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
