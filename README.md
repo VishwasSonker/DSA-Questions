@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/VishwasSonker/DSA-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/VishwasSonker/DSA-Questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/VishwasSonker/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/VishwasSonker/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/VishwasSonker/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/VishwasSonker/DSA-Questions/tree/master/0075-sort-colors) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VishwasSonker/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/VishwasSonker/DSA-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishwasSonker/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/VishwasSonker/DSA-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/VishwasSonker/DSA-Questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/VishwasSonker/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/VishwasSonker/DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VishwasSonker/DSA-Questions/tree/master/0088-merge-sorted-array) |
 ## Matrix
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VishwasSonker/DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/VishwasSonker/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/VishwasSonker/DSA-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VishwasSonker/DSA-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/VishwasSonker/DSA-Questions/tree/master/0496-next-greater-element-i) |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VishwasSonker/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/VishwasSonker/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
