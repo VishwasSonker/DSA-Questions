@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VishwasSonker/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/VishwasSonker/DSA-Questions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/VishwasSonker/DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/VishwasSonker/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0503-next-greater-element-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/VishwasSonker/DSA-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VishwasSonker/DSA-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 ## String
 |  |
 | ------- |
@@ -144,4 +146,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/VishwasSonker/DSA-Questions/tree/master/0735-asteroid-collision) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
