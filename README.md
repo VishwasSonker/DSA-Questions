@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VishwasSonker/DSA-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VishwasSonker/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0229-majority-element-ii) |
+| [0460-lfu-cache](https://github.com/VishwasSonker/DSA-Questions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/VishwasSonker/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/VishwasSonker/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/VishwasSonker/DSA-Questions/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/VishwasSonker/DSA-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VishwasSonker/DSA-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/VishwasSonker/DSA-Questions/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/VishwasSonker/DSA-Questions/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -171,8 +173,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/VishwasSonker/DSA-Questions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/VishwasSonker/DSA-Questions/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/VishwasSonker/DSA-Questions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/VishwasSonker/DSA-Questions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
