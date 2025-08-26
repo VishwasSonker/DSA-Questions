@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/VishwasSonker/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [1078-remove-outermost-parentheses](https://github.com/VishwasSonker/DSA-Questions/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -150,11 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0795-k-th-symbol-in-grammar](https://github.com/VishwasSonker/DSA-Questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1448-maximum-69-number](https://github.com/VishwasSonker/DSA-Questions/tree/master/1448-maximum-69-number) |
+| [2032-largest-odd-number-in-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/VishwasSonker/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [1448-maximum-69-number](https://github.com/VishwasSonker/DSA-Questions/tree/master/1448-maximum-69-number) |
+| [2032-largest-odd-number-in-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
