@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/VishwasSonker/DSA-Questions/tree/master/0050-powx-n) |
 | [0795-k-th-symbol-in-grammar](https://github.com/VishwasSonker/DSA-Questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1448-maximum-69-number](https://github.com/VishwasSonker/DSA-Questions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/VishwasSonker/DSA-Questions/tree/master/0050-powx-n) |
 | [0795-k-th-symbol-in-grammar](https://github.com/VishwasSonker/DSA-Questions/tree/master/0795-k-th-symbol-in-grammar) |
 ## Trie
 |  |
