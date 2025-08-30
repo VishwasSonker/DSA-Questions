@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/VishwasSonker/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/VishwasSonker/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/VishwasSonker/DSA-Questions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/VishwasSonker/DSA-Questions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VishwasSonker/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/VishwasSonker/DSA-Questions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/VishwasSonker/DSA-Questions/tree/master/0088-merge-sorted-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/VishwasSonker/DSA-Questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/VishwasSonker/DSA-Questions/tree/master/0136-single-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/VishwasSonker/DSA-Questions/tree/master/0795-k-th-symbol-in-grammar) |
 ## Hash Table
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VishwasSonker/DSA-Questions/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/VishwasSonker/DSA-Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
