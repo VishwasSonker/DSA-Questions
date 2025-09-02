@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/VishwasSonker/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/VishwasSonker/DSA-Questions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/VishwasSonker/DSA-Questions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/VishwasSonker/DSA-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishwasSonker/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/VishwasSonker/DSA-Questions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/VishwasSonker/DSA-Questions/tree/master/0136-single-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/VishwasSonker/DSA-Questions/tree/master/0795-k-th-symbol-in-grammar) |
 ## Hash Table
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/VishwasSonker/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/VishwasSonker/DSA-Questions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0090-subsets-ii) |
 ## String Matching
 |  |
 | ------- |
