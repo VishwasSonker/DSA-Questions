@@ -1,14 +1,14 @@
 class Solution {
 public:
 
-    void sum(int num, vector<vector<int>> &ans, int target, int k, vector<int> op){
+    void sum(int num, vector<vector<int>> &ans, int target, int k, vector<int> &op){
         if(num>9){
             if(target==0&&op.size()==k){
                 ans.push_back(op);
             }
             return;
         }
-        if(op.size()>k) return;
+        if(op.size()>k||target<0) return;
         op.push_back(num);
         sum(num+1, ans, target-num, k, op);
         op.pop_back();
