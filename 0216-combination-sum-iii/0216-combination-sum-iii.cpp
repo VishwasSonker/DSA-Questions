@@ -2,17 +2,18 @@ class Solution {
 public:
 
     void sum(int num, vector<vector<int>> &ans, int target, int k, vector<int> &op){
-        if(num>9){
-            if(target==0&&op.size()==k){
-                ans.push_back(op);
-            }
+        if(target==0 && op.size()==k){
+            ans.push_back(op);
             return;
         }
-        if(op.size()>k||target<0) return;
-        op.push_back(num);
-        sum(num+1, ans, target-num, k, op);
-        op.pop_back();
-        sum(num+1, ans, target, k, op);
+        if(target<0||op.size()>k) return;
+
+        for(int i=num; i<10; i++){
+            if(op.size()+(9-i+1)<k) return;
+            op.push_back(i);
+            sum(i+1, ans, target-i, k, op);
+            op.pop_back();
+        }
     }
 
     vector<vector<int>> combinationSum3(int k, int n) {
