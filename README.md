@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VishwasSonker/DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VishwasSonker/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [2481-strictly-palindromic-number](https://github.com/VishwasSonker/DSA-Questions/tree/master/2481-strictly-palindromic-number) |
 ## Matrix
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/VishwasSonker/DSA-Questions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/VishwasSonker/DSA-Questions/tree/master/2050-count-good-numbers) |
+| [2481-strictly-palindromic-number](https://github.com/VishwasSonker/DSA-Questions/tree/master/2481-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/0812-rotate-string) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/VishwasSonker/DSA-Questions/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
