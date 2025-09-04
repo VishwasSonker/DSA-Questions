@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/VishwasSonker/DSA-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishwasSonker/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/VishwasSonker/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/VishwasSonker/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/VishwasSonker/DSA-Questions/tree/master/0943-sum-of-subarray-minimums) |
 ## Two Pointers
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/VishwasSonker/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VishwasSonker/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VishwasSonker/DSA-Questions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/VishwasSonker/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/VishwasSonker/DSA-Questions/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/VishwasSonker/DSA-Questions/tree/master/0402-remove-k-digits) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/VishwasSonker/DSA-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/VishwasSonker/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0216-combination-sum-iii) |
 ## String Matching
 |  |
