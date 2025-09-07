@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/VishwasSonker/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/VishwasSonker/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/VishwasSonker/DSA-Questions/tree/master/0943-sum-of-subarray-minimums) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VishwasSonker/DSA-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VishwasSonker/DSA-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/VishwasSonker/DSA-Questions/tree/master/0050-powx-n) |
 | [0795-k-th-symbol-in-grammar](https://github.com/VishwasSonker/DSA-Questions/tree/master/0795-k-th-symbol-in-grammar) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VishwasSonker/DSA-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/VishwasSonker/DSA-Questions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/VishwasSonker/DSA-Questions/tree/master/2050-count-good-numbers) |
