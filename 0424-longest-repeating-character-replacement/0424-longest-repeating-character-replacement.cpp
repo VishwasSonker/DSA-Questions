@@ -8,7 +8,6 @@ public:
             maxfreq=max(maxfreq, hash[s[r]-'A']);
             if((r-l+1)-maxfreq>k){
                 hash[s[l]-'A']--;
-                maxfreq=0;
                 l++;
             }
             if((r-l+1)-maxfreq<=k){
