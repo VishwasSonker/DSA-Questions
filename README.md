@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/VishwasSonker/DSA-Questions/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/VishwasSonker/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/VishwasSonker/DSA-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VishwasSonker/DSA-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VishwasSonker/DSA-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/VishwasSonker/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/VishwasSonker/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/VishwasSonker/DSA-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/VishwasSonker/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/VishwasSonker/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/VishwasSonker/DSA-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/VishwasSonker/DSA-Questions/tree/master/0050-powx-n) |
 | [0795-k-th-symbol-in-grammar](https://github.com/VishwasSonker/DSA-Questions/tree/master/0795-k-th-symbol-in-grammar) |
+| [1370-count-number-of-nice-subarrays](https://github.com/VishwasSonker/DSA-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VishwasSonker/DSA-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/VishwasSonker/DSA-Questions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/VishwasSonker/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/VishwasSonker/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/VishwasSonker/DSA-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
