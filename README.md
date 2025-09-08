@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/VishwasSonker/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/VishwasSonker/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/VishwasSonker/DSA-Questions/tree/master/0943-sum-of-subarray-minimums) |
+| [0966-binary-subarrays-with-sum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/VishwasSonker/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VishwasSonker/DSA-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VishwasSonker/DSA-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -66,10 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/VishwasSonker/DSA-Questions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/VishwasSonker/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/VishwasSonker/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0966-binary-subarrays-with-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/VishwasSonker/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/VishwasSonker/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VishwasSonker/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/VishwasSonker/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/VishwasSonker/DSA-Questions/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
