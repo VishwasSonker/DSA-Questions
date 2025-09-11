@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/VishwasSonker/DSA-Questions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0239-sliding-window-maximum) |
+| [0455-assign-cookies](https://github.com/VishwasSonker/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/VishwasSonker/DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/VishwasSonker/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0503-next-greater-element-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VishwasSonker/DSA-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VishwasSonker/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/VishwasSonker/DSA-Questions/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VishwasSonker/DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VishwasSonker/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0455-assign-cookies](https://github.com/VishwasSonker/DSA-Questions/tree/master/0455-assign-cookies) |
 | [2481-strictly-palindromic-number](https://github.com/VishwasSonker/DSA-Questions/tree/master/2481-strictly-palindromic-number) |
 ## Matrix
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/VishwasSonker/DSA-Questions/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/VishwasSonker/DSA-Questions/tree/master/0455-assign-cookies) |
 | [1448-maximum-69-number](https://github.com/VishwasSonker/DSA-Questions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
