@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishwasSonker/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/VishwasSonker/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/VishwasSonker/DSA-Questions/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/VishwasSonker/DSA-Questions/tree/master/0943-sum-of-subarray-minimums) |
 ## Two Pointers
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/VishwasSonker/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/VishwasSonker/DSA-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/VishwasSonker/DSA-Questions/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/VishwasSonker/DSA-Questions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/VishwasSonker/DSA-Questions/tree/master/0943-sum-of-subarray-minimums) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/VishwasSonker/DSA-Questions/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/VishwasSonker/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/VishwasSonker/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/VishwasSonker/DSA-Questions/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/VishwasSonker/DSA-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/VishwasSonker/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/VishwasSonker/DSA-Questions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/VishwasSonker/DSA-Questions/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/VishwasSonker/DSA-Questions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
