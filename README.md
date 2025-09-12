@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/VishwasSonker/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/VishwasSonker/DSA-Questions/tree/master/0735-asteroid-collision) |
+| [0890-lemonade-change](https://github.com/VishwasSonker/DSA-Questions/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/VishwasSonker/DSA-Questions/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/VishwasSonker/DSA-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/VishwasSonker/DSA-Questions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/VishwasSonker/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/VishwasSonker/DSA-Questions/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/VishwasSonker/DSA-Questions/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/VishwasSonker/DSA-Questions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
