@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/VishwasSonker/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/VishwasSonker/DSA-Questions/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/VishwasSonker/DSA-Questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/VishwasSonker/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/VishwasSonker/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/VishwasSonker/DSA-Questions/tree/master/0075-sort-colors) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/VishwasSonker/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VishwasSonker/DSA-Questions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/VishwasSonker/DSA-Questions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/VishwasSonker/DSA-Questions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/VishwasSonker/DSA-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0119-pascals-triangle-ii) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/VishwasSonker/DSA-Questions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/VishwasSonker/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/VishwasSonker/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
