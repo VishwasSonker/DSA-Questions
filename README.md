@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/VishwasSonker/DSA-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishwasSonker/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/VishwasSonker/DSA-Questions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/VishwasSonker/DSA-Questions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/VishwasSonker/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/VishwasSonker/DSA-Questions/tree/master/0169-majority-element) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/VishwasSonker/DSA-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VishwasSonker/DSA-Questions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/VishwasSonker/DSA-Questions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/VishwasSonker/DSA-Questions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/VishwasSonker/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/VishwasSonker/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
