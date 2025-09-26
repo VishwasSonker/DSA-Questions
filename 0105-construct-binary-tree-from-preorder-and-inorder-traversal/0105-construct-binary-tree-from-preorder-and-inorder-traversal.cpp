@@ -11,31 +11,26 @@
  */
 class Solution {
 public:
-    unordered_map<int,int> inorderIndex; // to quickly find root position in inorder
-    int preorderIdx = 0;
+    unordered_map<int, int> mp;
+    int preidx = 0;
 
-    TreeNode* build(vector<int>& preorder, int left, int right) {
-        if (left > right) return nullptr;
+    TreeNode* buildtree(vector<int>& preorder, int left, int right){
+        if(left>right){
+            return nullptr;
+        }
+        int rootval = preorder[preidx++];
+        TreeNode* root = new TreeNode(rootval);
+        int idx = mp[rootval];
 
-        // pick current root from preorder
-        int rootVal = preorder[preorderIdx++];
-        TreeNode* root = new TreeNode(rootVal);
-
-        // split inorder into left & right subtree
-        int idx = inorderIndex[rootVal];
-
-        root->left = build(preorder, left, idx - 1);
-        root->right = build(preorder, idx + 1, right);
-
+        root->left = buildtree(preorder, left, idx-1);
+        root->right = buildtree(preorder, idx+1, right);
         return root;
     }
 
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        // store indices of inorder values for O(1) lookup
-        for (int i = 0; i < inorder.size(); i++) {
-            inorderIndex[inorder[i]] = i;
+        for(int i=0; i<inorder.size(); i++){
+            mp[inorder[i]] = i;
         }
-        preorderIdx = 0;
-        return build(preorder, 0, inorder.size() - 1);
+        return buildtree(preorder, 0, preorder.size()-1);
     }
 };
